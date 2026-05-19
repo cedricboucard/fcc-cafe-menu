@@ -1,7 +1,7 @@
-# ☕ FCC Café Menu
+# ☕ FCC Café Menu - TechDom Odé
 
 Project 1/5 for freeCodeCamp Responsive Web Design Certification.
-## Status: 0/91 steps
-## Demo: Coming soon
-## TechDom Odé Mentorship 👠
-# fcc-cafe-menu
+## Progress: 0/91 steps
+## Live Demo: Coming soon
+## Stack: HTML5, CSS3
+## Status: 🚧 In Progress
